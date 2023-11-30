@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\FacadeDesignPatternTask\FacadeDesignPatternTask\bin\Debug\net7.0\FacadeDesignPatternTask.exe
+C:\Users\user\OneDrive\Desktop\FacadeDesignPatternTask\FacadeDesignPatternTask\bin\Debug\net7.0\FacadeDesignPatternTask.deps.json
+C:\Users\user\OneDrive\Desktop\FacadeDesignPatternTask\FacadeDesignPatternTask\bin\Debug\net7.0\FacadeDesignPatternTask.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\FacadeDesignPatternTask\FacadeDesignPatternTask\bin\Debug\net7.0\FacadeDesignPatternTask.dll
+C:\Users\user\OneDrive\Desktop\FacadeDesignPatternTask\FacadeDesignPatternTask\bin\Debug\net7.0\FacadeDesignPatternTask.pdb
+C:\Users\user\OneDrive\Desktop\FacadeDesignPatternTask\FacadeDesignPatternTask\obj\Debug\net7.0\FacadeDesignPatternTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\FacadeDesignPatternTask\FacadeDesignPatternTask\obj\Debug\net7.0\FacadeDesignPatternTask.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\FacadeDesignPatternTask\FacadeDesignPatternTask\obj\Debug\net7.0\FacadeDesignPatternTask.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\FacadeDesignPatternTask\FacadeDesignPatternTask\obj\Debug\net7.0\FacadeDesignPatternTask.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\FacadeDesignPatternTask\FacadeDesignPatternTask\obj\Debug\net7.0\FacadeDesignPatternTask.dll
+C:\Users\user\OneDrive\Desktop\FacadeDesignPatternTask\FacadeDesignPatternTask\obj\Debug\net7.0\refint\FacadeDesignPatternTask.dll
+C:\Users\user\OneDrive\Desktop\FacadeDesignPatternTask\FacadeDesignPatternTask\obj\Debug\net7.0\FacadeDesignPatternTask.pdb
+C:\Users\user\OneDrive\Desktop\FacadeDesignPatternTask\FacadeDesignPatternTask\obj\Debug\net7.0\FacadeDesignPatternTask.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\FacadeDesignPatternTask\FacadeDesignPatternTask\obj\Debug\net7.0\ref\FacadeDesignPatternTask.dll
